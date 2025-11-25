@@ -87,7 +87,7 @@ namespace KanBankasi
 
         private void Anasayfa_Load(object sender, EventArgs e)
         {
-
+            // Anasayfa ya geri dönüş yapmadım.
         }
     }
 }
