@@ -22,6 +22,7 @@ namespace KanBankasi
 
         }
 
+        // Buradan aşağısı butonların tıkladındığında ki olaydır.
         private void btnCikis_Click(object sender, EventArgs e)
         {
             Login log = new Login();
